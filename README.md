@@ -1,5 +1,5 @@
 ## Who am I?
-
+I am currently pursuing IBM certification as a Machine Learning Engineer.
 I have Industrial experience of 8 years in the software industry wherein I have worked as an Associate Software Engineer and an Industrial Engineer. I have a Master's Degree in Electronics and Computer Engineering from University College Dublin wherein I graduated in the year 2020. I am proficient in Python, Power BI, Advanced Excel and SQL wherein I worked on various production line optimization projects and cost reduction projects by leveraging my Exploratory Data analysis skills (EDA). I am currently looking for work in Data Analysis field wherein I can leverage my skills to the fullest by creating useful data insights and communicating actionable insights to stakeholders.
 
 ## Work Experience
